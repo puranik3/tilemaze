@@ -1,0 +1,49 @@
+/* line 1, ../scss/icons.scss */
+.tmaze-icon {
+  background-image: url("icon-sprite.png");
+  background-repeat: no-repeat;
+  background-size: 72px 144px;
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+}
+
+/* line 10, ../scss/icons.scss */
+.tmaze-icon-unmute {
+  background-position: -2px -2px;
+}
+
+/* line 14, ../scss/icons.scss */
+.tmaze-icon-mute {
+  background-position: -38px -2px;
+}
+
+/* line 18, ../scss/icons.scss */
+.tmaze-icon-play {
+  background-position: -2px -38px;
+}
+
+/* line 22, ../scss/icons.scss */
+.tmaze-icon-pause {
+  background-position: -38px -38px;
+}
+
+/* line 26, ../scss/icons.scss */
+.tmaze-icon-stop {
+  background-position: -2px -74px;
+}
+
+/* line 30, ../scss/icons.scss */
+.tmaze-icon-hourglass {
+  background-position: -38px -74px;
+}
+
+/* line 34, ../scss/icons.scss */
+.tmaze-icon-stopclock {
+  background-position: -2px -110px;
+}
+
+/* line 38, ../scss/icons.scss */
+.tmaze-icon-clock {
+  background-position: -38px -110px;
+}

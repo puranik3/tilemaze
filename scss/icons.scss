@@ -1,0 +1,40 @@
+.tmaze-icon {
+    background-image	: url('icon-sprite.png');
+    background-repeat	: no-repeat;
+    background-size		: 72px 144px;
+    display				: inline-block;
+    width				: 32px;
+	height				: 32px;
+}
+
+.tmaze-icon-unmute {
+    background-position	: -2px -2px;
+}
+
+.tmaze-icon-mute {
+    background-position	: -38px -2px;
+}
+
+.tmaze-icon-play {
+    background-position	: -2px -38px;
+}
+
+.tmaze-icon-pause {
+    background-position	: -38px -38px;
+}
+
+.tmaze-icon-stop {
+    background-position	: -2px -74px;
+}
+
+.tmaze-icon-hourglass {
+    background-position	: -38px -74px;
+}
+
+.tmaze-icon-stopclock {
+    background-position	: -2px -110px;
+}
+
+.tmaze-icon-clock {
+    background-position	: -38px -110px;
+}
